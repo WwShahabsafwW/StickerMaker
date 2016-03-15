@@ -15,7 +15,7 @@ end
 local function run(msg, matches)
 local file = 'sticker/sticker.webp'
 
---if msg.to.type == 'user' then
+if msg.to.type == 'chat' then
 
 if matches[1]== "- stick" then
     if is_sudo(msg) then
