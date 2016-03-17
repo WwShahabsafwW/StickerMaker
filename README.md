@@ -21,6 +21,8 @@ sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-d
 git clone https://github.com/WwShahabsafwW/StickerMaker
 cd StickerMaker
 ./launch.sh install
+mkdir sticker
+mkdir image
 ./launch.sh
 ```
 # If You See bugs or have question send pull request
