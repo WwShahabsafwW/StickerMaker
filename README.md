@@ -2,7 +2,7 @@
 # Developer : [Shahab](https://telegram.me/Shahabambesik)
 # Special thanks to [Mustafaflux](https://telegram.me/MUSTAFAFLUX)
 
-# Installation on [C9](https://c9.io]
+# Installation on [C9](https://c9.io)
 
 # Part 1 :
 ```bash
